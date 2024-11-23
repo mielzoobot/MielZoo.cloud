@@ -1,10 +1,8 @@
 #### MielZoocloud Home page ####
 
-![Simple TailwindCSS template preview](https://github.com/cruip/tailwind-landing-page-template/assets/2683512/f9a98fab-a1bc-4fb5-8572-4de0b6bd932a)
-
 **MielZoocloud** is a landing page built on top of **TailwindCSS** and coded in **React** / **Next.js**.
 
-❤️ Visit our platfomr @ [MielZooc](https://mielzoo.cloud/).
+❤️ Visit our platform @ [MielZoo](https://mielzoo.cloud/).
 
 
 
